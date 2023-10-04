@@ -1,4 +1,4 @@
-## Repositório do desafio de projero sobre git e GitRub da DIO
+# Repositório do desafio de projero sobre git e GitRub da DIO
 
-# Links Úteis
+## Links Úteis
 - [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-sytax/)
